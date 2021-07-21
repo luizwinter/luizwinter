@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Luiz Winter</h1>
 <h3 align="center">Desenvolvedor Júnior e estudante dedicado em novas tecnologias</h3>
 
-- 💬 Trabalho com TI desde os 19 anos e me considero uma amante da tecnologia pela sua geração de resultados. Sou formado em **Analise de Sistemas** e atualmente procuro poder me dedicar 💯% ao desenvolvimento a partir de novas oportunidades.
+- 💬 Trabalho com TI desde os 19 anos e me considero um amante da tecnologia pela sua geração de resultados. Sou formado em **Analise de Sistemas** e atualmente procuro poder me dedicar 💯% ao desenvolvimento a partir de novas oportunidades.
 - 📚  Meus estudos hoje estão focados em **ReactJS e NodeJS**.
 
 
